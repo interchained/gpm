@@ -3,7 +3,7 @@ module github.com/interchained/gpm
 go 1.16
 
 require (
-	github.com/cosmos/cosmos-sdk v0.42.6
+	github.com/cosmos/cosmos-sdk v0.43.1 // bump
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/spf13/cast v1.3.1
