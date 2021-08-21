@@ -9,7 +9,7 @@ require (
 	github.com/spf13/cast v1.3.1
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5
-	github.com/interchained/genesismint v0.34.12 // bump
+	github.com/interchained/genesismint v0.34.13 // bump
 	github.com/interchained/gm-db v0.6.5 // bump
 	golang.org/x/net v0.0.0-20201209123823-ac852fbbde11 // indirect
 	golang.org/x/text v0.3.4 // indirect
